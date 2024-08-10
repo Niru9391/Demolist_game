@@ -1,5 +1,5 @@
 import React from 'react'
-import GlobalApi from '../Servies.js/GlobalApi'
+import GlobalApi from '../Servies/GlobalApi'
 
 function PopularGameList({gameList}) {
 
